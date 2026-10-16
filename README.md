@@ -14,3 +14,4 @@ Pain burger
 - bacon
 - Sauce barbecue
 - Oignons
+- Sauce samouraï
